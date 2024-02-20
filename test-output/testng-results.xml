@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-21T01:23:13 GTS" name="myStore Automation Test Suite" finished-at="2024-02-21T01:25:24 GTS" duration-ms="131412">
+    <groups>
+    </groups>
+    <test started-at="2024-02-21T01:23:13 GTS" name="My Store Project Test" finished-at="2024-02-21T01:25:24 GTS" duration-ms="131412">
+      <class name="com.mystore.qa.testcases.AccountCreation">
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.AccountCreation@217ed35e]" started-at="2024-02-21T01:24:42 GTS" name="loadConfiguration" finished-at="2024-02-21T01:24:42 GTS" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method signature="AccountRegisteration()[pri:0, instance:com.mystore.qa.testcases.AccountCreation@217ed35e]" started-at="2024-02-21T01:24:42 GTS" name="AccountRegisteration" finished-at="2024-02-21T01:25:18 GTS" duration-ms="36756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AccountRegisteration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.AccountCreation@217ed35e]" started-at="2024-02-21T01:25:18 GTS" name="tearDown" finished-at="2024-02-21T01:25:24 GTS" duration-ms="5727" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.qa.testcases.AccountCreation -->
+      <class name="com.mystore.qa.testcases.Login">
+        <test-method signature="userLogin()[pri:0, instance:com.mystore.qa.testcases.Login@139982de]" started-at="2024-02-21T01:23:54 GTS" name="userLogin" finished-at="2024-02-21T01:24:10 GTS" duration-ms="15443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.Login@139982de]" started-at="2024-02-21T01:23:54 GTS" name="loadConfiguration" finished-at="2024-02-21T01:23:54 GTS" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.Login@139982de]" started-at="2024-02-21T01:24:10 GTS" name="tearDown" finished-at="2024-02-21T01:24:16 GTS" duration-ms="5826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.qa.testcases.Login -->
+      <class name="com.mystore.qa.testcases.Home">
+        <test-method signature="loadHome()[pri:0, instance:com.mystore.qa.testcases.Home@385c9627]" started-at="2024-02-21T01:23:41 GTS" name="loadHome" finished-at="2024-02-21T01:23:49 GTS" duration-ms="7758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadHome -->
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.Home@385c9627]" started-at="2024-02-21T01:23:41 GTS" name="loadConfiguration" finished-at="2024-02-21T01:23:41 GTS" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.Home@385c9627]" started-at="2024-02-21T01:23:49 GTS" name="tearDown" finished-at="2024-02-21T01:23:54 GTS" duration-ms="5725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.qa.testcases.Home -->
+      <class name="com.mystore.qa.testcases.LoginSucess">
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.LoginSucess@682b2fa]" started-at="2024-02-21T01:24:16 GTS" name="loadConfiguration" finished-at="2024-02-21T01:24:16 GTS" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method signature="loginSucess()[pri:0, instance:com.mystore.qa.testcases.LoginSucess@682b2fa]" started-at="2024-02-21T01:24:16 GTS" name="loginSucess" finished-at="2024-02-21T01:24:36 GTS" duration-ms="20104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginSucess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.LoginSucess@682b2fa]" started-at="2024-02-21T01:24:36 GTS" name="tearDown" finished-at="2024-02-21T01:24:42 GTS" duration-ms="5998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.qa.testcases.LoginSucess -->
+      <class name="com.mystore.qa.testcases.Index">
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:13 GTS" name="loadConfiguration" finished-at="2024-02-21T01:23:13 GTS" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method signature="verifyLogo()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:13 GTS" name="verifyLogo" finished-at="2024-02-21T01:23:21 GTS" duration-ms="8282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:21 GTS" name="tearDown" finished-at="2024-02-21T01:23:27 GTS" duration-ms="5897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="loadConfiguration()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:27 GTS" name="loadConfiguration" finished-at="2024-02-21T01:23:27 GTS" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadConfiguration -->
+        <test-method signature="verifyTitle()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:27 GTS" name="verifyTitle" finished-at="2024-02-21T01:23:35 GTS" duration-ms="7700" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.mystore.qa.testcases.Index@3e694b3f]" started-at="2024-02-21T01:23:35 GTS" name="tearDown" finished-at="2024-02-21T01:23:41 GTS" duration-ms="5819" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mystore.qa.testcases.Index -->
+    </test> <!-- My Store Project Test -->
+  </suite> <!-- myStore Automation Test Suite -->
+</testng-results>
